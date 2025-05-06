@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, Welcome to my GitHub</h1>
-<h3 align="center">An aspiring Information Security Analyst studying Information Technology at UCF</h3>
+<h3 align="center">An aspiring Information Security Analyst with a Bachelors in Information Technology</h3>
 
 - 🔭 I’m currently working on **a study with me timer**
 
