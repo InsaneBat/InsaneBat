@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Axel Alvarado</h1>
+<h1 align="center">Hi 👋, Welcome to my GitHub</h1>
 <h3 align="center">An aspiring Information Security Analyst studying Information Technology at UCF</h3>
 
 - 🔭 I’m currently working on **a study with me timer**
