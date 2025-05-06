@@ -7,11 +7,7 @@
 
 - 💬 Ask me about **Python, PowerShell**
 
-- 📫 How to reach me **aalvaradoaxel@outlook.com**
-
-- 📄 Know about my experiences [https://azure-rori-47.tiiny.site](https://azure-rori-47.tiiny.site)
-
-- ⚡ Fun fact **I am currently studying for my Security + certification**
+- ⚡ Fun fact **I am Network+ and Security+ certified**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
